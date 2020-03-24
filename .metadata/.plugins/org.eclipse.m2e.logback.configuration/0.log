@@ -1,0 +1,259 @@
+2020-03-24 09:23:18,892 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2020-03-24 09:25:47,910 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' G:\EPAM_TASK_7\TDD_JUNIT\pom.xml
+2020-03-24 09:25:58,359 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.epam:TDD_JUNIT:0.0.1-SNAPSHOT @ G:\EPAM_TASK_7\TDD_JUNIT\pom.xml.
+2020-03-24 09:26:01,435 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TDD_JUNIT/src/main/java
+2020-03-24 09:26:01,497 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /TDD_JUNIT/src/test/java
+2020-03-24 09:26:05,580 [Worker-7: Creating maven-archetype-quickstart] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 17 sec
+2020-03-24 09:26:07,394 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:26:07,395 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 09:26:07,399 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:26:07,399 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 09:26:43,171 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:26:43,171 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 09:26:43,175 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:26:43,175 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 09:28:09,789 [Worker-6: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.epam:TDD_JUNIT:0.0.1-SNAPSHOT @ G:\EPAM_TASK_7\TDD_JUNIT\pom.xml.
+2020-03-24 09:28:12,290 [Worker-6: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.5.2/junit-jupiter-api-5.5.2.pom
+2020-03-24 09:28:12,467 [Worker-6: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.5.2/junit-jupiter-api-5.5.2.pom
+2020-03-24 09:28:13,830 [Worker-6: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.pom
+2020-03-24 09:28:14,012 [Worker-6: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.pom
+2020-03-24 09:28:14,172 [Worker-6: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.pom
+2020-03-24 09:28:14,359 [Worker-6: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.pom
+2020-03-24 09:28:14,522 [Worker-6: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.5.2/junit-platform-commons-1.5.2.pom
+2020-03-24 09:28:14,720 [Worker-6: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.5.2/junit-platform-commons-1.5.2.pom
+2020-03-24 09:28:14,880 [Worker-6: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.5.2/junit-jupiter-engine-5.5.2.pom
+2020-03-24 09:28:15,080 [Worker-6: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.5.2/junit-jupiter-engine-5.5.2.pom
+2020-03-24 09:28:15,240 [Worker-6: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.5.2/junit-platform-engine-1.5.2.pom
+2020-03-24 09:28:15,396 [Worker-6: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.5.2/junit-platform-engine-1.5.2.pom
+2020-03-24 09:28:15,573 [Worker-6: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.5.2/junit-jupiter-api-5.5.2.jar
+2020-03-24 09:28:21,060 [Worker-6: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.5.2/junit-jupiter-api-5.5.2.jar
+2020-03-24 09:28:21,211 [Worker-6: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar
+2020-03-24 09:28:21,366 [Worker-6: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar
+2020-03-24 09:28:21,519 [Worker-6: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar
+2020-03-24 09:28:21,820 [Worker-6: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar
+2020-03-24 09:28:21,971 [Worker-6: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.5.2/junit-platform-commons-1.5.2.jar
+2020-03-24 09:28:24,459 [Worker-6: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.5.2/junit-platform-commons-1.5.2.jar
+2020-03-24 09:28:24,611 [Worker-6: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.5.2/junit-jupiter-engine-5.5.2.jar
+2020-03-24 09:28:31,728 [Worker-6: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.5.2/junit-jupiter-engine-5.5.2.jar
+2020-03-24 09:28:32,028 [Worker-6: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.5.2/junit-platform-engine-1.5.2.jar
+2020-03-24 09:28:36,689 [Worker-6: Building] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.5.2/junit-platform-engine-1.5.2.jar
+2020-03-24 09:28:38,276 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:28:38,277 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 09:28:38,280 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:28:38,280 [Worker-6: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 09:28:39,433 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:28:39,433 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 09:28:39,436 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:28:39,436 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 09:28:39,805 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.5.2/junit-jupiter-api-5.5.2-sources.jar
+2020-03-24 09:28:45,911 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-api/5.5.2/junit-jupiter-api-5.5.2-sources.jar
+2020-03-24 09:28:46,072 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.jupiter:junit-jupiter-api:5.5.2
+2020-03-24 09:28:46,728 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0-sources.jar
+2020-03-24 09:28:46,882 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0-sources.jar
+2020-03-24 09:28:47,141 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.apiguardian:apiguardian-api:1.1.0
+2020-03-24 09:28:47,820 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0-sources.jar
+2020-03-24 09:28:48,006 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0-sources.jar
+2020-03-24 09:28:48,169 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.opentest4j:opentest4j:1.2.0
+2020-03-24 09:28:48,811 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.5.2/junit-platform-commons-1.5.2-sources.jar
+2020-03-24 09:28:50,801 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-commons/1.5.2/junit-platform-commons-1.5.2-sources.jar
+2020-03-24 09:28:51,009 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.platform:junit-platform-commons:1.5.2
+2020-03-24 09:28:51,668 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.5.2/junit-jupiter-engine-5.5.2-sources.jar
+2020-03-24 09:28:52,504 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/jupiter/junit-jupiter-engine/5.5.2/junit-jupiter-engine-5.5.2-sources.jar
+2020-03-24 09:28:52,652 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.jupiter:junit-jupiter-engine:5.5.2
+2020-03-24 09:28:53,368 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.5.2/junit-platform-engine-1.5.2-sources.jar
+2020-03-24 09:28:54,168 [Worker-0: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/junit/platform/junit-platform-engine/1.5.2/junit-platform-engine-1.5.2-sources.jar
+2020-03-24 09:28:54,261 [Worker-0: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.junit.platform:junit-platform-engine:1.5.2
+2020-03-24 09:28:54,488 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:28:54,488 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 09:28:54,490 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:28:54,490 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 09:31:20,695 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:31:20,695 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 09:31:20,698 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:31:20,698 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 09:31:21,995 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:31:21,995 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 09:31:21,998 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:31:21,998 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 09:32:17,896 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:32:17,897 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 09:32:17,900 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:32:17,900 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 09:34:41,205 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:34:41,205 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 09:34:41,208 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:34:41,208 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 09:35:03,652 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:35:03,652 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 09:35:03,657 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:35:03,657 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 09:38:04,135 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:38:04,135 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 09:38:04,137 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:38:04,138 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 09:38:12,508 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:38:12,508 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 09:38:12,511 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:38:12,511 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 09:38:22,221 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:38:22,221 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 09:38:22,224 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:38:22,224 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 09:39:16,121 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:39:16,121 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 09:39:16,124 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:39:16,124 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 09:41:11,633 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:41:11,633 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 09:41:11,635 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:41:11,636 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 09:44:18,498 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:44:18,499 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 09:44:18,502 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:44:18,503 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 09:44:54,524 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:44:54,524 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 09:44:54,526 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:44:54,527 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 09:46:04,571 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:46:04,571 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 09:46:04,575 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:46:04,575 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 09:47:51,996 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:47:51,997 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 09:47:51,999 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:47:51,999 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 09:50:25,460 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:50:25,460 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 09:50:25,462 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:50:25,462 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 09:51:39,814 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:51:39,814 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 09:51:39,816 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:51:39,816 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 09:53:58,297 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:53:58,297 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 09:53:58,299 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:53:58,299 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 09:54:33,123 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:54:33,124 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 09:54:33,127 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:54:33,127 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 09:55:59,999 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:56:00,000 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 09:56:00,003 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:56:00,003 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 09:56:21,196 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:56:21,196 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 09:56:21,197 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:56:21,197 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 09:56:55,162 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:56:55,162 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 09:56:55,164 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:56:55,164 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 09:58:01,251 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:58:01,251 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 09:58:01,254 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:58:01,254 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 09:58:16,634 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:58:16,634 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 09:58:16,636 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:58:16,636 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 09:58:36,931 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:58:36,932 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 09:58:36,933 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:58:36,933 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 09:59:47,620 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:59:47,620 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 09:59:47,622 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:59:47,622 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 09:59:58,222 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:59:58,223 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 09:59:58,225 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 09:59:58,226 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 10:02:18,709 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 10:02:18,709 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 10:02:18,711 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 10:02:18,712 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 10:02:56,098 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 10:02:56,099 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 10:02:56,100 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 10:02:56,101 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 10:04:05,068 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 10:04:05,068 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 10:04:05,070 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 10:04:05,070 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 10:04:44,716 [Worker-0: Launching Executing clean in G__EPAM_TASK_7_TDD_JUNIT] INFO  o.e.m.i.launch.MavenLaunchDelegate - G:\EPAM_TASK_7\TDD_JUNIT
+2020-03-24 10:04:44,717 [Worker-0: Launching Executing clean in G__EPAM_TASK_7_TDD_JUNIT] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-03-24 10:04:49,185 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 10:04:49,186 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 10:04:49,187 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 10:04:49,188 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 10:04:56,679 [Worker-7: Launching Executing install in G__EPAM_TASK_7_TDD_JUNIT] INFO  o.e.m.i.launch.MavenLaunchDelegate - G:\EPAM_TASK_7\TDD_JUNIT
+2020-03-24 10:04:56,680 [Worker-7: Launching Executing install in G__EPAM_TASK_7_TDD_JUNIT] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-03-24 10:05:39,421 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 10:05:39,422 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 10:05:39,426 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 10:05:39,427 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 10:06:00,605 [Worker-16: Launching Executing install in G__EPAM_TASK_7_TDD_JUNIT] INFO  o.e.m.i.launch.MavenLaunchDelegate - G:\EPAM_TASK_7\TDD_JUNIT
+2020-03-24 10:06:00,606 [Worker-16: Launching Executing install in G__EPAM_TASK_7_TDD_JUNIT] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-03-24 10:07:13,596 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 10:07:13,596 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 10:07:13,598 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 10:07:13,599 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 10:07:32,695 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 10:07:32,695 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 10:07:32,697 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 10:07:32,697 [Worker-16: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 10:07:56,886 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 10:07:56,887 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 10:07:56,889 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 10:07:56,890 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 10:08:19,790 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 10:08:19,790 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 10:08:19,792 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 10:08:19,792 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 10:08:59,447 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 10:08:59,447 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 10:08:59,449 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 10:08:59,449 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 10:09:16,741 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 10:09:16,742 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 10:09:16,743 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 10:09:16,743 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 10:09:59,535 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 10:09:59,535 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 10:09:59,536 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 10:09:59,537 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 10:14:51,281 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 10:14:51,281 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 10:14:51,283 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 10:14:51,283 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 10:16:26,504 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 10:16:26,504 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 10:16:26,506 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 10:16:26,506 [Worker-5: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 10:17:12,596 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 10:17:12,597 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 10:17:12,598 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 10:17:12,598 [Worker-7: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 10:17:45,948 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 10:17:45,948 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 10:17:45,949 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 10:17:45,949 [Worker-15: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 10:17:56,210 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 10:17:56,210 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 10:17:56,211 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 10:17:56,213 [Worker-14: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 10:18:05,035 [Worker-5: Launching Executing clean in G__EPAM_TASK_7_TDD_JUNIT] INFO  o.e.m.i.launch.MavenLaunchDelegate - G:\EPAM_TASK_7\TDD_JUNIT
+2020-03-24 10:18:05,035 [Worker-5: Launching Executing clean in G__EPAM_TASK_7_TDD_JUNIT] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B clean
+2020-03-24 10:18:09,742 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 10:18:09,743 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 10:18:09,745 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 10:18:09,745 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources
+2020-03-24 10:18:16,663 [Worker-1: Launching Executing install in G__EPAM_TASK_7_TDD_JUNIT] INFO  o.e.m.i.launch.MavenLaunchDelegate - G:\EPAM_TASK_7\TDD_JUNIT
+2020-03-24 10:18:16,663 [Worker-1: Launching Executing install in G__EPAM_TASK_7_TDD_JUNIT] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -B install
+2020-03-24 10:18:27,203 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 10:18:27,204 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\main\resources
+2020-03-24 10:18:27,205 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2020-03-24 10:18:27,205 [Worker-0: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory G:\EPAM_TASK_7\TDD_JUNIT\src\test\resources

@@ -1,0 +1,48 @@
+package com.epam.TDD_JUNIT;
+
+import static org.junit.jupiter.api.Assertions.*;
+
+import org.junit.jupiter.api.Test;
+
+class RemoveFirstTwoTest {
+
+	@BeforeEach
+	void setUp()
+	{
+		RemoveFirstTwo removeFirstTwo = new RemoveFirstTwo();
+	}
+	@Test
+	void onlyFirstCharacter() 
+	{
+		assertEquals("BCD",removeFirstTwo.remove("ABCD"));
+	}
+	
+	@Test
+	void onlySecondCharacter() 
+	{
+		String result = removeFirstTwo.remove("BACD");
+		assertEquals("BCD", result);
+	}
+	
+	@Test
+	void firstTwoCharacters() 
+	{
+		String result = removeFirstTwo.remove("AACD");
+		assertEquals("CD", result);
+	}
+	
+	@Test
+	void noCharacter() 
+	{
+		String result = removeFirstTwo.remove("BBAA");
+		assertEquals("BBAA", result);
+	}
+	
+	@Test
+	void firstTwoCharacter() 
+	{
+		String result = removeFirstTwo.remove("AABAA");
+		assertEquals("BAA", result);
+	}
+
+}

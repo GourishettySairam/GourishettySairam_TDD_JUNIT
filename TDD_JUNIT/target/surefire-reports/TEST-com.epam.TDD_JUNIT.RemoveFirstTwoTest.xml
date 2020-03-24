@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="com.epam.TDD_JUNIT.RemoveFirstTwoTest" time="0.122" tests="8" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="G:\EPAM_TASK_7\TDD_JUNIT\target\test-classes;G:\EPAM_TASK_7\TDD_JUNIT\target\classes;C:\Users\DIVYA\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.5.2\junit-jupiter-api-5.5.2.jar;C:\Users\DIVYA\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\DIVYA\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\DIVYA\.m2\repository\org\junit\platform\junit-platform-commons\1.5.2\junit-platform-commons-1.5.2.jar;C:\Users\DIVYA\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.5.2\junit-jupiter-engine-5.5.2.jar;C:\Users\DIVYA\.m2\repository\org\junit\platform\junit-platform-engine\1.5.2\junit-platform-engine-1.5.2.jar;C:\Users\DIVYA\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\DIVYA\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Calcutta"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 8.1"/>
+    <property name="user.country" value="IN"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_221\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\DIVYA\AppData\Local\Temp\surefire6779644995690531701\surefirebooter5419725128667591651.jar C:\Users\DIVYA\AppData\Local\Temp\surefire6779644995690531701 2020-03-24T10-18-23_150-jvmRun1 surefire4947710429507121746tmp surefire_03153251562834634148tmp"/>
+    <property name="surefire.test.class.path" value="G:\EPAM_TASK_7\TDD_JUNIT\target\test-classes;G:\EPAM_TASK_7\TDD_JUNIT\target\classes;C:\Users\DIVYA\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.5.2\junit-jupiter-api-5.5.2.jar;C:\Users\DIVYA\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\DIVYA\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\DIVYA\.m2\repository\org\junit\platform\junit-platform-commons\1.5.2\junit-platform-commons-1.5.2.jar;C:\Users\DIVYA\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.5.2\junit-jupiter-engine-5.5.2.jar;C:\Users\DIVYA\.m2\repository\org\junit\platform\junit-platform-engine\1.5.2\junit-platform-engine-1.5.2.jar;C:\Users\DIVYA\.m2\repository\junit\junit\4.11\junit-4.11.jar;C:\Users\DIVYA\.m2\repository\org\hamcrest\hamcrest-core\1.3\hamcrest-core-1.3.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\DIVYA"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_221\jre"/>
+    <property name="basedir" value="G:\EPAM_TASK_7\TDD_JUNIT"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\DIVYA\AppData\Local\Temp\surefire6779644995690531701\surefirebooter5419725128667591651.jar"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_221\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_221\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_221\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_221\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_221\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_221\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_221\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_221\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_221-b11"/>
+    <property name="user.name" value="DIVYA"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="6.3"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_221\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\DIVYA\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="C:\Users\DIVYA\AppData\Local\Temp\"/>
+    <property name="java.version" value="1.8.0_221"/>
+    <property name="user.dir" value="G:\EPAM_TASK_7\TDD_JUNIT"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_221\jre\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\ProgramData\Anaconda3;C:\ProgramData\Anaconda3\Library\mingw-w64\bin;C:\ProgramData\Anaconda3\Library\usr\bin;C:\ProgramData\Anaconda3\Library\bin;C:\ProgramData\Anaconda3\Scripts;C:\oraclexe\app\oracle\product\11.2.0\server\bin;G:\DATABASE\bin;C:\Program Files\Java\jdk1.7.0_80\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;H:\downloaded apps\apache ant\apache-ant-1.10.6\bin;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\;C:\Program Files\Java\jdk1.8.0_221\bin;C:\Program Files\Java\jdk1.8.0_221\jre\bin;C:\Dev-Cpp\bin;C:\Program Files\Git\cmd;C:\Go\bin;C:\Users\DIVYA\.dotnet\tools;C:\Program Files\Salesforce CLI\bin;C:\Program Files\Java\jdk1.8.0_221\bin;C:\Program Files\JetBrains\PyCharm Community Edition 2019.3.3\bin;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="java.vm.version" value="25.221-b11"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_221\jre\lib\ext;C:\windows\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="allDifferent" classname="com.epam.TDD_JUNIT.RemoveFirstTwoTest" time="0.116"/>
+  <testcase name="noCharacter" classname="com.epam.TDD_JUNIT.RemoveFirstTwoTest" time="0"/>
+  <testcase name="firstAndLast" classname="com.epam.TDD_JUNIT.RemoveFirstTwoTest" time="0"/>
+  <testcase name="allSame" classname="com.epam.TDD_JUNIT.RemoveFirstTwoTest" time="0"/>
+  <testcase name="firstTwo" classname="com.epam.TDD_JUNIT.RemoveFirstTwoTest" time="0"/>
+  <testcase name="onlyFirstCharacter" classname="com.epam.TDD_JUNIT.RemoveFirstTwoTest" time="0"/>
+  <testcase name="passingEmptyString" classname="com.epam.TDD_JUNIT.RemoveFirstTwoTest" time="0"/>
+  <testcase name="onlySecondCharacter" classname="com.epam.TDD_JUNIT.RemoveFirstTwoTest" time="0"/>
+</testsuite>
